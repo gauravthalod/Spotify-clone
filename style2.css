@@ -309,7 +309,7 @@ input[type="range"]::-webkit-slider-thumb {
 }
 .song_side .playlists .play_box{
     height: 50px;
-    width: 100%;
+    width: 32%;
     border-radius: 5px;
     background: rgba(255, 255, 255, 0.123);
     display: flex;
